@@ -8,9 +8,10 @@ header {
 body {
     background-color: rgb(9, 10, 44);
     color: azure;
+    margin: 0px;
 }
 section {
-    background: rgb(184,156,213);
+    background: rgb(60, 45, 80);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
