@@ -1,7 +1,7 @@
 body {
-    color: rgb(200,200,250);
-    background: rgb(50,50,100);
-    margin: 0px;
+    color: rgb(200, 200, 250);
+    background: rgb(50, 50, 100);
+    margin: 30px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
 }
@@ -20,13 +20,19 @@ header {
     display: flex;
     justify-content: center;
 }
+.principal{
+    justify-content: center;
+    margin: 0%, 3%, 0%, 0%;
+
+}
 
 .chamada-texto {
-    margin-right: 5%;
+    margin: 3%;
 }
 
 .chamada-texto h1 {
-    font-size: 38px;
+    font-size: 40px;
+    margin: 3%;
 }
 
 p {
